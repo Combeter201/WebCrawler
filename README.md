@@ -1,2 +1,2 @@
 # WebCrawler
-Basic Webcrawler written in Java
+Just a basic Webcrawler written in Java for automated Download of Comics e.g.
