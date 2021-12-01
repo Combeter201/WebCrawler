@@ -15,8 +15,8 @@ public class Crawler
 		InputStreamReader isr = null;
 		URL url = null;
 		
-		int startindex = 764 + 3;
-		String urlString = "https://ani-op.com/?page_id=" + startindex;
+		int startindex = 0;
+		String urlString = "url" + startindex;
 
 		try {
 			url = new URL(urlString);
